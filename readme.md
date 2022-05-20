@@ -18,11 +18,11 @@ Galeria de fotos com filtro dinâmico por cidade.
 
 <p align="center">
 	<kbd>
-		<img alt="Todas Fotos" title="#TodasFotos" width="600" height="333" style="border-radius: 5px" src="./assets/galerias_fotos_todas.png">
+		<img alt="Todas Fotos" title="#TodasFotos" width="600" height="379" style="border-radius: 5px" src="./assets/galerias_fotos_todas.png">
 	</kbd>
 	<br/><br/>
 	<kbd>
-		<img alt="New York" title="#NewYork" width="600" height="333" style="border-radius: 5px" src="./assets/galerias_fotos_new-york.png">
+		<img alt="New York" title="#NewYork" width="600" height="379" style="border-radius: 5px" src="./assets/galerias_fotos_new-york.png">
 	</kbd>		
 </p>
 
