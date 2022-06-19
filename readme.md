@@ -1,4 +1,4 @@
-<h1 align="center">Blog</h1>
+<h1 align="center">Galeria de fotos</h1>
 
 Galeria de fotos com filtro dinâmico por cidade.
 
